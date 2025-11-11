@@ -11,7 +11,6 @@ Tenho interesse especial em áreas como **Inteligência Artificial**, **Engenhar
 ---
 
 ## 📸 Foto
-> *(Insira aqui uma foto profissional sua, preferencialmente com fundo neutro e boa iluminação.)*
 
 ---
 
@@ -144,7 +143,7 @@ Durante o projeto, também atuei no **controle de versionamento via GitHub**, or
 | **Proatividade** | Busquei soluções técnicas e de design para melhorar a experiência do usuário e a usabilidade do site. |
 
 
-📸 *(Adicione aqui imagens do projeto, telas do Figma ou screenshots da aplicação para enriquecer a apresentação.)*
+📸 
 
 ---
 <span id="ia-databank">
@@ -232,7 +231,7 @@ Contribuí diretamente para:
 
 
 
-📸 *(Adicione aqui imagens do chatbot, interface do sistema e diagrama de arquitetura para enriquecer a apresentação.)*
+📸
 
 ---
 
@@ -326,7 +325,7 @@ Minhas principais contribuições incluem:
 
 
 
-📸 *(Adicione aqui imagens do dashboard, gráficos e telas do sistema para enriquecer a apresentação.)*
+📸
 
 ---
 
@@ -426,7 +425,7 @@ Minhas principais contribuições incluem:
 
 
 
-📸 *(Adicione aqui capturas de tela do dashboard, páginas de projeto e relatórios para enriquecer a apresentação.)*
+📸 
 
 ---
 <span id="georah">
@@ -523,7 +522,7 @@ Contribuições principais:
 
 
 
-📸 *(Adicione aqui imagens do mapa interativo, telas do aplicativo e geração de certificado para enriquecer a apresentação.)*
+📸 
 
 
 
