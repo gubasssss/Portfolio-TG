@@ -71,7 +71,7 @@ Aprimorar minhas competências em **Inteligência Artificial**, **Engenharia de 
 
 ---
 
-<details id="site-scrum-tutor">
+<span id="site-scrum-tutor">
 
 ## 🧠 Projeto: Site Scrum Tutor – 2023-2  
 
@@ -147,7 +147,7 @@ Durante o projeto, também atuei no **controle de versionamento via GitHub**, or
 📸 *(Adicione aqui imagens do projeto, telas do Figma ou screenshots da aplicação para enriquecer a apresentação.)*
 
 ---
-<details id="ia-databank">
+<span id="ia-databank">
 
 
 ## 🤖 Projeto: IA DataBank – Chave de Ankh – 2024-1  
@@ -236,7 +236,7 @@ Contribuí diretamente para:
 
 ---
 
-<details id="maat-view">
+<span id="maat-view">
 
 
 ## 📊 Projeto: Maat-View – 2024-2 
@@ -331,7 +331,7 @@ Minhas principais contribuições incluem:
 ---
 
 
-<details id="project-gestum">
+<span id="project-gestum">
 
 
 ## 📊 Projeto: Project Gestum - 2025-1
@@ -429,7 +429,7 @@ Minhas principais contribuições incluem:
 📸 *(Adicione aqui capturas de tela do dashboard, páginas de projeto e relatórios para enriquecer a apresentação.)*
 
 ---
-<details id="georah">
+<span id="georah">
 
 
 ## 🌍 Projeto: GeoRah - 2025-2
