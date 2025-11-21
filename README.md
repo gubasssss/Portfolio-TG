@@ -12,6 +12,8 @@ Tenho interesse especial em áreas como **Inteligência Artificial**, **Engenhar
 
 ## 📸 Foto
 
+![Image](https://github.com/user-attachments/assets/d19eba14-bbf7-4d1a-9ae2-74a7627eac5c)
+
 ---
 
 ## 📫 Contatos
@@ -111,13 +113,13 @@ A aplicação foi hospedada na internet, permitindo fácil acesso a qualquer pes
 
 ## 👨‍💻 Contribuições Pessoais  
 
-Atuei como **Scrum Master** da equipe, sendo responsável por **organizar as sprints**, **facilitar a comunicação entre os membros** e **garantir o cumprimento das entregas dentro do prazo**.  
-Além da função de liderança ágil, também contribuí ativamente no **desenvolvimento do front-end e back-end** do sistema.  
+Atuei como Scrum Master da equipe, organizando e conduzindo as sprints, facilitando a comunicação, removendo impedimentos e garantindo que as entregas fossem concluídas dentro do prazo e conforme os requisitos. Além da liderança ágil, também contribuí diretamente no desenvolvimento do front-end e do back-end do sistema.
 
-Implementei a **estrutura Flask em Python** para o formulário avaliativo, permitindo que os dados fossem processados de forma dinâmica.  
-No front-end, colaborei com a **criação das páginas HTML**, **aplicação dos estilos em CSS e Bootstrap**, além de participar da **prototipagem das telas no Figma**.  
+No back-end, implementei a estrutura Flask em Python para o formulário avaliativo, permitindo o processamento dinâmico dos dados, validações e integração com outros componentes. Também participei da definição das rotas e da organização dos módulos para manter o código mais limpo e escalável.
 
-Durante o projeto, também atuei no **controle de versionamento via GitHub**, organizando branches e revisando merges, o que ajudou a manter a coesão e qualidade do código entregue.  
+No front-end, colaborei na criação das páginas em HTML, aplicação de estilos com CSS e Bootstrap, além de contribuir na prototipagem das telas no Figma, garantindo boa usabilidade e consistência visual.
+
+Fui ainda responsável pelo controle de versionamento no GitHub, organizando branches, revisando pull requests e conduzindo merges estruturados, o que ajudou a manter a qualidade do código. Também apoiei na documentação técnica e participei de testes funcionais, contribuindo para a estabilidade e o bom desempenho da aplicação.
 
 
 ## 🧩 Hard Skills  
@@ -144,6 +146,9 @@ Durante o projeto, também atuei no **controle de versionamento via GitHub**, or
 
 
 📸 
+
+https://github.com/gubasssss/ThothTech/assets/143751785/11ac8c77-7eb3-400e-8882-152af67f4523
+
 
 ---
 <span id="ia-databank">
@@ -196,15 +201,13 @@ Além disso, o sistema suporta **diferentes bancos de dados**, podendo se adapta
 
 ## 👨‍💻 Contribuições Pessoais  
 
-Atuei como **Product Owner**, sendo responsável por **definir os requisitos do produto**, **organizar o backlog** e **validar as entregas de cada sprint** de acordo com as necessidades do cliente.  
-Também participei no **desenvolvimento da interface do chatbot** e na **integração da IA ao sistema**, garantindo que as respostas fossem claras e relevantes às consultas realizadas.  
+Atuei como Product Owner do projeto, sendo responsável por definir e priorizar os requisitos do produto, organizar e refinar o backlog, além de acompanhar todo o ciclo de desenvolvimento para garantir que cada sprint entregasse valor real ao cliente. Trabalhei diretamente na validação das funcionalidades implementadas, alinhando expectativas, ajustando requisitos quando necessário e garantindo que o produto estivesse sempre coerente com as necessidades do usuário final.
 
-Contribuí diretamente para:
-- Estruturação do **fluxo de comunicação entre o usuário e o modelo de IA**;  
-- Testes de **consultas SQL automáticas** geradas por linguagem natural;  
-- **Design da interface** no Figma;  
-- Apoio ao controle de versão e à documentação do projeto no GitHub.  
+Também tive participação ativa no desenvolvimento da interface do chatbot e na integração da inteligência artificial ao sistema, assegurando que as respostas geradas fossem claras, relevantes e adequadas ao contexto das consultas. Atuei na estruturação do fluxo de comunicação entre o usuário e o modelo de IA, contribuindo para uma experiência mais intuitiva e eficiente.
 
+Além disso, participei dos testes das consultas SQL automáticas geradas por linguagem natural, validando a precisão das respostas e garantindo que a IA interpretasse corretamente as intenções dos usuários. No design, colaborei na criação e prototipação das telas no Figma, cuidando da consistência visual e da usabilidade da interface.
+
+Durante o projeto, também apoiei o controle de versão e a documentação no GitHub, auxiliando na organização das branches, revisão das alterações e registro das principais decisões. Essa atuação contribuiu para manter o fluxo de trabalho estruturado e o código devidamente documentado ao longo do desenvolvimento.
 
 ## 🧩 Hard Skills  
 
@@ -232,6 +235,9 @@ Contribuí diretamente para:
 
 
 📸
+
+https://github.com/HenryBRG/ThothTech-2/assets/143751785/9fb2ba7d-1170-4509-a09d-1c191025dab9
+
 
 ---
 
@@ -288,14 +294,13 @@ Entre as principais funcionalidades estão:
 
 ## 👨‍💻 Contribuições Pessoais  
 
-Atuei como **membro do Dev Team**, sendo responsável pelo **desenvolvimento e integração de funcionalidades front-end e back-end**, além de participar na **estruturação da base de dados** e na **implementação do sistema de login e níveis de acesso**.  
+Atuei como membro do Dev Team, contribuindo diretamente para o desenvolvimento e integração das funcionalidades front-end e back-end do sistema. Também participei da estruturação da base de dados e da implementação do sistema de login com diferentes níveis de acesso, garantindo segurança e organização no fluxo de usuários.
 
-Minhas principais contribuições incluem:
-- Desenvolvimento da **interface de login** e **fluxos de autenticação**;  
-- Implementação de **níveis de usuário (Admin, Líder e Liderado)**;  
-- Colaboração na criação dos **dashboards de visualização de desempenho**;  
-- Testes e integração das **pesquisas e avaliações dinâmicas**;  
-- Apoio na **documentação técnica e organização do repositório no GitHub**.  
+Desenvolvi a interface de login e os fluxos de autenticação, assegurando que o processo de entrada no sistema fosse funcional, intuitivo e alinhado às regras de negócio. Implementei os níveis de usuário (Admin, Líder e Liderado), definindo permissões específicas para cada perfil e controlando o acesso às funcionalidades de acordo com o papel de cada usuário.
+
+Colaborei ainda na criação dos dashboards de visualização de desempenho, contribuindo para a apresentação clara das métricas e indicadores necessários para o acompanhamento das atividades. Também trabalhei nos testes e na integração das pesquisas e avaliações dinâmicas, garantindo que os dados fossem processados corretamente e exibidos de forma consistente.
+
+Além disso, atuei no apoio à documentação técnica e na organização do repositório no GitHub, auxiliando no controle de versões, revisão de código e registro das principais decisões do projeto. Essa atuação ajudou a manter o desenvolvimento estruturado e facilitou a colaboração entre os membros da equipe.
 
 
 
@@ -326,6 +331,9 @@ Minhas principais contribuições incluem:
 
 
 📸
+
+https://github.com/user-attachments/assets/823e928f-226f-40f2-b061-4bcabf4d07cc
+
 
 ---
 
@@ -387,16 +395,13 @@ O sistema foi dividido em **três sprints**, priorizando entregas de valor cont�
 
 ## 👨‍💻 Contribuições Pessoais  
 
-Atuei como **Product Owner**, sendo responsável por **definir os requisitos do produto**, **priorizar o backlog** e **validar as entregas** conforme as expectativas da FAPG.  
-Além disso, participei ativamente no **planejamento das sprints**, **documentação do sistema** e **organização do repositório GitHub**.
+Atuei como Product Owner, responsável por definir os requisitos do produto, priorizar o backlog e validar as entregas de acordo com as expectativas e necessidades da FAPG. Trabalhei diretamente no alinhamento entre equipe técnica e stakeholder, garantindo que todas as funcionalidades desenvolvidas refletissem o valor esperado pelo cliente e atendessem aos critérios de aceitação estabelecidos.
 
-Minhas principais contribuições incluem:  
-- Definição e priorização do **backlog do produto** com base nas necessidades do parceiro;  
-- Apoio no **desenvolvimento do front-end e testes funcionais**;  
-- Revisão e validação das **funcionalidades de filtragem e relatórios**;  
-- Documentação técnica das **sprints** e dos **critérios de aceitação**;  
-- Garantia de alinhamento entre **equipe técnica e stakeholder**.  
+Além das atividades estratégicas, participei ativamente do planejamento das sprints, colaborando na organização das tarefas, na definição de metas e na comunicação contínua com o time. Contribuí também para a documentação do sistema, registrando requisitos, fluxos e decisões importantes para manter a clareza e a continuidade do desenvolvimento.
 
+Minhas principais contribuições incluem a definição e priorização do backlog do produto com base nas necessidades do parceiro, bem como o apoio no desenvolvimento do front-end e na execução de testes funcionais, assegurando que as funcionalidades entregues estivessem corretas e alinhadas ao propósito do sistema. Atuei ainda na revisão e validação das funcionalidades de filtragem e geração de relatórios, garantindo precisão e usabilidade nas visualizações de dados.
+
+Durante o projeto, também auxiliei na organização do repositório GitHub, acompanhando commits, revisando alterações e mantendo o versionamento estruturado. Essa atuação contribuiu para um fluxo de trabalho mais claro, colaborativo e eficiente entre os membros do time.
 
 
 ## 🧩 Hard Skills  
@@ -426,6 +431,9 @@ Minhas principais contribuições incluem:
 
 
 📸 
+
+https://github.com/user-attachments/assets/7b5bd622-2a88-49f6-9932-8527c90b77d3
+
 
 ---
 <span id="georah">
@@ -484,15 +492,13 @@ Entre as principais funcionalidades:
 
 ## 👨‍💻 Contribuições Pessoais  
 
-Atuei como **Dev Team**, colaborando no **desenvolvimento da aplicação mobile**, **testes de integração** e **estruturação do fluxo de dados entre frontend e backend**.  
-Também participei do **refinamento de user stories**, **testes de usabilidade** e **documentação técnica**.
+Atuei como membro do Dev Team, contribuindo diretamente para o desenvolvimento da aplicação mobile, os testes de integração e a estruturação do fluxo de dados entre o front-end e o back-end. Trabalhei na implementação de funcionalidades essenciais do app, garantindo que a comunicação entre as camadas da aplicação ocorresse de forma consistente e eficiente.
 
-Contribuições principais:  
-- Implementação de componentes visuais e telas principais do app;  
-- Integração do mapa interativo com Google Maps API;  
-- Apoio na estrutura de rotas, autenticação e notificações push;  
-- Validação de critérios de aceitação e testes das sprints;  
-- Revisão do backlog e documentação no GitHub.  
+Além disso, participei ativamente do refinamento das user stories, auxiliando na clarificação dos requisitos e na definição dos critérios de aceitação de cada funcionalidade. Também contribuí nos testes de usabilidade, avaliando a experiência do usuário e ajudando a ajustar elementos da interface para torná-la mais intuitiva e acessível.
+
+Minhas contribuições incluem a implementação de componentes visuais e das telas principais do aplicativo, além da integração do mapa interativo utilizando a Google Maps API, garantindo precisão, responsividade e boa experiência de navegação no mapa. Apoiei ainda na definição e organização da estrutura de rotas, autenticação e notificações push, assegurando que o app funcionasse de forma fluida e segura.
+
+Durante as sprints, atuei na validação dos critérios de aceitação, execução de testes e acompanhamento das entregas, contribuindo para a estabilidade e confiabilidade das funcionalidades. Também participei da revisão do backlog e da documentação técnica no GitHub, ajudando a manter o repositório organizado e atualizado para toda a equipe.
 
 
 ## 🧩 Hard Skills  
