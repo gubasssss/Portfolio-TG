@@ -526,10 +526,135 @@ Durante as sprints, atuei na validação dos critérios de aceitação, execuç�
 
 ---
 
-
-
 📸 
 
+
+# 🌍 Projeto: Ra Vision - 2026-1
+
+## 🏫 Empresa Parceira
+O projeto **Ra Vision** foi desenvolvido como parte do curso de Análise e Desenvolvimento de Sistemas da FATEC São José dos Campos – Prof. Jessen Vidal, em parceria com a empresa acadêmica Dom Rock.
+
+O **Ra Vision** é uma aplicação web inteligente voltada para o gerenciamento de regras de negócio empresariais com suporte de IA Generativa, permitindo automatizar cálculos de comissão, rastrear alterações de regras e oferecer explicações detalhadas sobre decisões e resultados financeiros.
+
+---
+
+# ❗ Problema
+Empresas que trabalham com regras de negócio dinâmicas enfrentam dificuldades em manter processos organizados, auditáveis e consistentes, principalmente em cenários envolvendo cálculos de comissionamento, campanhas sazonais e mudanças frequentes nas políticas internas.
+
+Muitas dessas regras:
+
+- Não possuem documentação formal;
+- Dependem de conhecimento tácito de colaboradores;
+- Sofrem alterações constantes;
+- Geram inconsistências operacionais;
+- Possuem baixa rastreabilidade;
+- Dificultam auditorias e validações financeiras.
+
+Além disso, o processo manual de análise de planilhas e cálculos de comissão aumenta o risco de falhas humanas, pagamentos incorretos e dificuldades na explicação dos resultados para equipes de RH e operações.
+
+O problema identificado foi a necessidade de uma plataforma inteligente capaz de centralizar regras de negócio, automatizar cálculos complexos, gerar rastreabilidade e utilizar IA Generativa para explicar decisões de forma clara e acessível.
+
+---
+
+# 💡 Solução Entregue
+A equipe desenvolveu o **Ra Vision**, uma aplicação web para gerenciamento inteligente de regras empresariais, integrando automação de cálculos, processamento de planilhas, auditoria de regras e IA Generativa.
+
+Entre as principais funcionalidades:
+
+- Importação estruturada de planilhas de RH, vendas e comissionamento;
+- Processamento automático de regras trabalhistas e comerciais;
+- Cálculo proporcional de comissões, admissões, férias e afastamentos;
+- Aplicação de bônus sazonais e regras específicas por cargo;
+- Interface de chat integrada com IA Generativa para explicação dos cálculos;
+- Versionamento e gerenciamento de regras de negócio;
+- Controle de acesso por níveis de usuário;
+- Histórico de processamentos e rastreabilidade para auditorias;
+- Reprocessamento automático de cálculos após alterações de regras;
+- Identificação de inconsistências e anomalias nos pagamentos;
+- Dashboards gerenciais para acompanhamento financeiro.
+
+---
+
+# 🔗 GIT
+📂 Repositório no GitHub – Ra Vision (ThothTech-Fatec)
+
+---
+
+# 🧰 Tecnologias Utilizadas
+
+## Backend
+- Java
+- Spring Boot
+- PostgreSQL
+- APIs REST
+- Docker
+
+## Frontend
+- Vue.js (SPA)
+- TypeScript
+- Componentização reativa
+- Gerenciamento de estados
+
+## IA Generativa
+- Integração com APIs LLM
+- LangChain / frameworks de orquestração
+- Assistente virtual via chat
+
+## DevOps e Ferramentas
+- Git / GitHub
+- GitHub Flow
+- Docker
+- Jira / Scrum
+
+---
+
+# 👨‍💻 Contribuições Pessoais
+Atuei como membro do **Dev Team**, contribuindo diretamente no desenvolvimento das funcionalidades do sistema web, na integração entre front-end e back-end e na implementação das regras de negócio relacionadas ao cálculo de comissões e processamento de dados.
+
+Participei da construção e manutenção de componentes da interface utilizando Vue.js e TypeScript, garantindo uma experiência fluida e organizada para os usuários responsáveis pela análise e gerenciamento das regras empresariais.
+
+Também contribuí no desenvolvimento das integrações entre o sistema e os serviços de IA Generativa, auxiliando na implementação do fluxo de comunicação do assistente virtual responsável por explicar cálculos, regras e decisões tomadas pela aplicação.
+
+Além disso, participei do refinamento das user stories, validação de critérios de aceitação e organização das tarefas durante as sprints, colaborando ativamente na definição de regras de negócio e no acompanhamento das entregas do time.
+
+Minhas contribuições incluem:
+
+- Implementação de telas e componentes do sistema web;
+- Integração entre front-end e APIs REST;
+- Auxílio no desenvolvimento do motor de regras e cálculos;
+- Implementação e ajustes no fluxo de autenticação e permissões;
+- Suporte na integração do assistente virtual com IA;
+- Correções de bugs e melhorias de usabilidade;
+- Participação em testes de integração e validação de funcionalidades;
+- Organização da documentação técnica e atualização do repositório no GitHub;
+- Apoio no versionamento e revisão de Pull Requests durante as sprints.
+
+---
+
+# 🧩 Hard Skills
+
+| Habilidade | Descrição | Nível de Proficiência |
+|---|---|---|
+| Vue.js / TypeScript | Desenvolvimento front-end SPA e integração com APIs | Sei fazer com autonomia |
+| Java / Spring Boot | Desenvolvimento back-end e APIs REST | Sei fazer com apoio |
+| PostgreSQL | Modelagem e persistência de dados relacionais | Sei fazer com autonomia |
+| IA Generativa / APIs LLM | Integração de assistentes inteligentes via chat | Sei fazer com apoio |
+| Git / GitHub | Versionamento e colaboração em equipe | Sei fazer com autonomia |
+| Docker | Execução e configuração de ambientes | Sei fazer com apoio |
+| Jira / Scrum | Planejamento e acompanhamento de sprints | Sei fazer com autonomia |
+
+---
+
+# 💬 Soft Skills
+
+| Soft Skill | Aplicação Prática |
+|---|---|
+| Trabalho em Equipe | Colaborei com o time no desenvolvimento das funcionalidades e resolução de problemas técnicos. |
+| Comunicação | Mantive alinhamento constante com Scrum Master, Product Owner e equipe durante as sprints. |
+| Proatividade | Sugeri melhorias em fluxos de uso e organização das interfaces do sistema. |
+| Organização | Auxiliei na documentação técnica e atualização das tarefas no GitHub e Jira. |
+| Pensamento Crítico | Analisei regras de negócio e soluções de integração para garantir maior confiabilidade dos cálculos. |
+| Resolução de Problemas | Atuei na identificação e correção de inconsistências no processamento das regras e comissões. |
 
 
 
