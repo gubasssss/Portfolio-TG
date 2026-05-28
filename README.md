@@ -69,6 +69,8 @@ Aprimorar minhas competências em **Inteligência Artificial**, **Engenharia de 
 3. 📊 [Maat-View – 2024-2](#maat-view)  
 4. 🧩 [Project Gestum – 2025-1](#project-gestum)  
 5. 🌍 [GeoRah – 2025-2](#georah)
+6. 🌍 [Ra Vision – 2026-1](#ra-vision)
+
 
 ---
 
@@ -528,6 +530,8 @@ Durante as sprints, atuei na validação dos critérios de aceitação, execuç�
 
 📸 
 
+
+<span id="ra-vision">
 
 # 🌍 Projeto: Ra Vision - 2026-1
 
