@@ -580,7 +580,7 @@ Entre as principais funcionalidades:
 ---
 
 # 🔗 GIT
-📂 Repositório no GitHub – Ra Vision (ThothTech-Fatec)
+📂 [Repositório no GitHub – Ra Vision (ThothTech-Fatec)](https://github.com/ThothTech-Fatec/RaVision)
 
 ---
 
